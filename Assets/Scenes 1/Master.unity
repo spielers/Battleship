@@ -472,8 +472,8 @@ MonoBehaviour:
     scenePath: Assets/Scenes 1/Plan.unity
     sceneAsset: {fileID: 102900000, guid: 5e6584d44c2df6648a83df6ef230673b, type: 3}
   battleScene:
-    scenePath: 
-    sceneAsset: {fileID: 0}
+    scenePath: Assets/Scenes 1/Battle.unity
+    sceneAsset: {fileID: 102900000, guid: f50dd726605981743b2e394f6773b068, type: 3}
 --- !u!1 &1560539547
 GameObject:
   m_ObjectHideFlags: 0
