@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba7d6b9b43e94c542b59217bc84a7be6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  onlineEndpoint: ws://bronzehero.herokuapp.com
+  onlineEndpoint: ws://battleship-reunited.herokuapp.com
   serverType: 1
   messageField: {fileID: 322319179}
   progressBarCanvasPrefab: {fileID: 868588383397605981, guid: b5624325612bcf0438993606f5726bef,
