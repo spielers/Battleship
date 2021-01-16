@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Fleet_VGunBoat
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -4435417356244048945, guid: 07250fcc871756246be609926cd790c9,
+  m_Sprite: {fileID: -526741561836948825, guid: 854e8b2b8f42d4e479c42dc318216cc2,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:

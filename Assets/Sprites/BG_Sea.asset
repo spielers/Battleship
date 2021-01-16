@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Fleet_Scout
+  m_Name: BG_Sea
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -1873820637791111801, guid: 854e8b2b8f42d4e479c42dc318216cc2,
+  m_Sprite: {fileID: 8547244342825730544, guid: e61991517d5f97d40a0fabc0f3d0f63a,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
